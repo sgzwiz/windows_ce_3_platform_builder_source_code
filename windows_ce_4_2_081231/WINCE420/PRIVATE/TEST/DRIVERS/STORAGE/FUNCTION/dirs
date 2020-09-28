@@ -1,4 +1,0 @@
-DIRS=cdromtest \
-     disktest \
-     cdplayer \
-     flshwear

@@ -1,6 +1,0 @@
-SYNCHRONIZE_BLOCK=1
-
-DIRS= \
-    scardf \
-    mthread \
-    syncobj

@@ -1,5 +1,0 @@
-DIRS=common \     
-     API \
-     depth \
-     stress \
-     function

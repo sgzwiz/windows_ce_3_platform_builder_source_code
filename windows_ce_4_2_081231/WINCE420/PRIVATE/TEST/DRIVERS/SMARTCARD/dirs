@@ -1,5 +1,0 @@
-DIRS=Common\
-     BVT\
-     API\
-     Function
-     

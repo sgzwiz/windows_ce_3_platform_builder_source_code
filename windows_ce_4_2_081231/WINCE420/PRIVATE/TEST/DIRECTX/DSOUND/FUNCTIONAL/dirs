@@ -1,6 +1,0 @@
-DIRS=\
-    DSndFuncTest \
-    DSndVolumeTest \
-    DSndMixingTest \
-    Daily \
-    DSndTest \

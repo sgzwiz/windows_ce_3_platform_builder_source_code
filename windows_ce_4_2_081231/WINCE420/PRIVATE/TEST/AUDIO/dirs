@@ -1,4 +1,0 @@
-DIRS_CE=\
-    AudioUty \
-    mixer \
-    wave \

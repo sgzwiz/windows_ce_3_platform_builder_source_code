@@ -1,5 +1,0 @@
-DIRS=\
-   repro \
-   samples \
-   functional \
-   BVT \

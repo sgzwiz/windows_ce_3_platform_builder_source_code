@@ -1,6 +1,0 @@
-DIRS= \
-	ir \
-
-DIRS_CE= \
-    	serial \
-	bluetooth \

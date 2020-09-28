@@ -1,7 +1,0 @@
-DIRS=\
-    DSoundUty \
-    BVT \
-    Functional \
-    Regression \
-    Stress \
-    Samples \
